@@ -93,7 +93,7 @@ function calculateScore() {
 // }
 
 function getScoreMessage(totalScore) {
-    if (totalScore === 5) return "That's the minimum score for a 5 point word according to Scrabble. It’s an embarrassment.";
+    if (totalScore === 5) return "That's the minimum score for a 5 point word according to Scrabble. It’s an embarrassment. AND YOU ARE HATED, ALL VANCES!!!";
     if (totalScore === 6) return "This is the score of like an 7 year old. 6 points is weak.";
     if (totalScore === 7) return "Choosing high value words should be left to others. You are not good at it. 7 points, hahaha!";
     if (totalScore === 8) return "Eight point Scrabble words are frequent and most adults can come up with bigger and better.";
