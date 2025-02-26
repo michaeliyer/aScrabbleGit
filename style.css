@@ -1,7 +1,7 @@
 
 h1, h2 { 
     font-family: "Neucha", cursive;
-    color: rgb(70, 14, 224);
+    color: rgb(127, 91, 224);
     border: solid rgb(12, 111, 124) 6px;
     border-radius: 8px;
     padding: 5px;
@@ -13,7 +13,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     background-color: rgba(255, 255);
-    color: rgb(187, 55, 11);
+    color: rgb(15, 166, 33);
     padding: 20px;
 }
 
