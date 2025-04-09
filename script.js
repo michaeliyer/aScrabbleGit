@@ -97,9 +97,9 @@ function getScoreMessage(totalScore) {
             28: "You gonna get beaten down, essay! 28? You trying to keep us down, make us look uneducated!",
             29: "You're dead to me, fuckface. 29 is next to impossible. You're ruined around here.",
             30: "You will be reported for this score of 30 if you don't fuck off right this moment!",
-            31: "Consider the authorities called. You need to hide out, bitch!"
+            31: "Consider the authorities called. You need to hide out, bitchAss!"
     };
-            return messages[totalScore] || "Get fucked. This is you being ghosted. You are totally unloved.";
+            return messages[totalScore] || "Get fucked. This is you being ghosted. You are totally Fucking unloved.";
 };
 
    let score = 60;
