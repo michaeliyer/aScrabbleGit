@@ -71,7 +71,7 @@ function calculateScore() {
 
 function getScoreMessage(totalScore) {
     const messages = {
-            5: "That's the minimum score for a 5 point word according to Scrabble. It’s an embarrassment. AND YOU ARE HATED, ALL VANCES!!!",
+            5: "That's the minimum score for a 5 point word according to Scrabble. It’s an embarrassment. AND YOU ARE HATED, ALL Wispy VANCES!!!",
             6: "This is the score of like an 7 year old. 6 points is weak. Fuckler",
             7: "Choosing high value words should be left to others. You are not good at it. 7 points, haha!",
             8: "Eight point Scrabble words are frequent and most adults can come up with bigger and better.",
